@@ -1,6 +1,6 @@
 # Capstone Project Report: Air Passengers Forecasting
 
-**Submitted by:** [Ali abdulmalik] — Academy: @SDAIAAcademy  
+**Submitted by:** Ali abdulmalik — Academy: @SDAIAAcademy  
 **Dataset:** Monthly International Air Passengers (1949–1960, 144 observations, no gaps)
 
 ## 1. The Recommendation
